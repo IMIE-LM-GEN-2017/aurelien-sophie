@@ -1,4 +1,4 @@
-Cahier des charges projet :
+Cahier des charges:
  ==========================
 
 ##### Proposition pour le client:

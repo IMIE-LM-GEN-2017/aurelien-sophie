@@ -24,10 +24,10 @@ internes à la vie de la communauté.
 
 + Il est important de respecter le travail de chacun, de ce faite, nous vous demandons de ne pas vous approprier le travail d'un autre utilisateur.
 
-+ Les informations sur le profil utilisateur sont personnelles, nous vous prions de ne pas usurper l'identité d'un autre.
++ Les informations sur le profil utilisateur sont personnelles, vous êtes donc dans l'interdiction d'usurper l'identité d'un autre utilisateur.
 
 
 #### Condition d'utilisation et d'accès aux réseaux sociaux : 
 > Nous évoquerons certaines restrictions et limites pratiques.
 
-#### `Sanctions:`
+#### Sanctions:

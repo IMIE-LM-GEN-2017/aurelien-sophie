@@ -7,9 +7,10 @@ Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisat
 > Cette partie aura pour objectif de sensibiliser les utilisateurs aux exigences de sécurité, d'appeler leur attention sur certains comportements qui peuvent porter 
 atteinte à l'intérêt collectif de la communauté ou de l'administration.
 
-####Utilisation appropriée:
+#### Utilisation appropriée:
 
-####Utilisation inappropriée:
+
+#### Utilisation inappropriée:
 
 #### Communication sur les réseaux sociaux : 
 > Nous préciserons les plateformes qui peuvent être utilisées et dans quel cadre la communication doit avoir lieu.

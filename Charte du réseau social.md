@@ -31,3 +31,11 @@ internes à la vie de la communauté.
 > Nous évoquerons certaines restrictions et limites pratiques.
 
 #### Sanctions:
+> Nous indiquerons les sanctions et les conséquences si la charte est enfreinte. 
+
+
+_**Pour toutes informations supplémentaires, nous vous prions de nous joindre à ces liens ci dessous:**_
+
+
+- [Aurelien Carteret](https://github.com/CrtAurelien)
+- [Sophie Bouyaud](https://github.com/Sbouyaud)

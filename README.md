@@ -11,7 +11,7 @@ le système des comptes.
 En ce qui concerne les solutions qui peuvent résoudre (ou une partie) des limitations et problèmes, je proposerais une modération assez élevée de la part des administrateurs (ou modérateurs) pour éviter des débordements et abus 
 du règlement. Nous allons rédiger un reglement sur le forum pour le bien de tous, chaque poste sera modéré, et nous serons pointilleux sur les sujets/messages doublons.
 En ce qui concerne, la gestion des comptes. Ceux ayant finit leur cursus, auront un nouveau statut sur le réseau. Ils auront toujours les même droits. Pour ceux qui ont une longue absence, nous désactiverons le compte mais garderons le
-contenus de ce qu'il a posté. Et pour ceux qu'ils le souhaitent, nous leur permettrons de désactiver leur compte.
+contenu de ce qu'il a posté. Et pour ceux qu'ils le souhaitent, nous leur permettrons de désactiver leur compte.
 ### FONCTIONNALITE:
 La première fonctionnalité proposé serait d'ouvrir un réseau de partage média.
 Nous envisageons d'intégrer un editeur de texte (ex: notepad++, sublimetext), pour permettre la facilisation des partages de code.

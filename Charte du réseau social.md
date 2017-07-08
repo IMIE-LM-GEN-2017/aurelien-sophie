@@ -12,7 +12,7 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 
 ##### Utilisation inappropriée:
 
-#### Communication sur les réseaux sociaux : 
+#### Communication dans la communauté : 
 > Nous préciserons les plateformes qui peuvent être utilisées et dans quel cadre la communication doit avoir lieu.
 
 #### Distinction entre utilisation professionnelle et utilisation personnelle : 
@@ -29,3 +29,5 @@ internes à la vie de la communauté.
 
 #### Condition d'utilisation et d'accès aux réseaux sociaux : 
 > Nous évoquerons certaines restrictions et limites pratiques.
+
+#### `Sanctions:`

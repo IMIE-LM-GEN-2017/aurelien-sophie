@@ -24,8 +24,8 @@ Nous trouvons aussi intéressant de pouvoir indiquer quelle perspective de méti
 Nous remarquons qu'il y a beaucoup d'évènements organisés par les IMIE, de ce faite nous voulons mettre en place un calendrier event pour que tout le monde soit informé, et dans une possibilité d'intégration entre les autres
 écoles, nous aimerions aussi créer des évènements extérieurs entre les différentes écoles.  
 Il est important d'être toujours informé, d'assurer une veille numérique, c'est pour cela que nous allons créer un fil d'actualité relatif au numérique et aux nouvelles des IMIE (sortie d'un nouvel cursus, ect). 
-(facultatif) Etant tous dans la filière numérique, nous trouvons cela intéressant de pouvoir permettre aux utilisateurs de personnaliser leur profil (bannières ect)
-(facultatif) Nous trouvons intéressant de permettre à chaques personnes, la possibilité de poster les projets finit sur leur profil.
+- *(facultatif)* Etant tous dans la filière numérique, nous trouvons cela intéressant de pouvoir permettre aux utilisateurs de personnaliser leur profil (bannières ect)
+- *(facultatif)* Nous trouvons intéressant de permettre à chaques personnes, la possibilité de poster les projets finit sur leur profil.
 
 ##### Projet sous 3 mois:
 Nous comptons dans ce délai, mettre en place la structure web ainsi les fonctionnalités suivantes: 

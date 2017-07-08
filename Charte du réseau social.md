@@ -14,11 +14,9 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 + Les utilisateurs sont libres de discuter avec qui que ce soit, cependant nous apprécierons de ne pas mettre en avant votre vie privée et de garder votre présence sur le serveur à titre
 purement professionelle.
 
-+ Nous précisons que la publicité à titre personnelle ne sera pas accepté.
++ Nous précisons que la publicité à titre personnelle ne sera pas acceptée.
 
 + Les projets présents sont scolaires ou personnels. En conséquence, nous ne permettrons pas l'utilisation du réseau pour des fins lucratives.
-
-+ Le choix de chacun est à respecter, il est formellement inapproprié d'utiliser ce réseau pour se moquer ou s'amuser.
 
 #### Communication dans la communauté : 
 > Nous préciserons les plateformes qui peuvent être utilisées et dans quel cadre la communication doit avoir lieu.

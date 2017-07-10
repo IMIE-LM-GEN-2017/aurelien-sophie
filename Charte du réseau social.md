@@ -46,9 +46,9 @@ internes à la vie de la communauté.
 #### Sanctions:
 > Nous indiquerons les sanctions si les conditions générales d'utilisation sont enfreintes. 
 
-+ Pour des infractions dites mineures nous appliquerons un renvoi au bout de 3 avertissements.
++ Pour des infractions dites mineures (publicité, utilisation non professionnelle...) nous appliquerons un renvoi au bout de 3 avertissements.
 
-+ Pour des infractions aggravées, nous appliquerons le renvoi immédiat.
++ Pour des infractions aggravées (poste pornographique, propos déplacés...) nous appliquerons le renvoi immédiat.
 
 _**Pour toutes informations supplémentaires, nous vous prions de nous joindre à ces liens ci dessous:**_
 

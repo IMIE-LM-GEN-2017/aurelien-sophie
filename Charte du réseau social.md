@@ -7,7 +7,7 @@ Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisat
 > Cette partie aura pour objectif de sensibiliser les utilisateurs aux exigences de sécurité, d'appeler leur attention sur certains comportements qui peuvent porter 
 atteinte à l'intérêt collectif de la communauté ou de l'administration.
 
-+ Nous exigeons que tous les utilisateurs se respectent et modèrent leur propos. Les propos discriminatoires et les insultes ne sont pas tolérables.
++ Nous exigeons que tout les utilisateurs se respectent et modèrent leur propos. Les propos discriminatoires et les insultes ne sont pas tolérables.
 
 + Ce réseau existe pour la communauté, nous devrons révoquer les droits des utilisateurs fantômes (qui ne participent pas à la communauté).
 

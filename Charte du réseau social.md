@@ -9,7 +9,7 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 
 + Nous exigeons que tout les utilisateurs se respectent et modèrent leur propos. Les propos racistes ou les insultes ne sont pas tolérables.
 
-+ Ce réseau existe pour la communauté, nous ne tolérerons pas les utilisateurs fantômes (qui ne participent pas à la communauté).
++ Ce réseau existe pour la communauté, nous devrons révoquer le droit des utilisateurs fantômes (qui ne participent pas à la communauté).
 
 + Les utilisateurs sont libres de discuter avec qui que ce soit, cependant nous apprécierons de ne pas mettre en avant votre vie privée et de garder votre présence sur le serveur à titre
 purement professionelle.

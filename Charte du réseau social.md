@@ -1,5 +1,5 @@
- les conditions générales d'utilisation du réseau social
-========================================================
+les conditions générales d'utilisation du réseau social
+=======================================================
 
 Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisateurs de bien vouloir respecter la charte.
 
@@ -7,7 +7,7 @@ Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisat
 > Cette partie aura pour objectif de sensibiliser les utilisateurs aux exigences de sécurité, d'appeler leur attention sur certains comportements qui peuvent porter 
 atteinte à l'intérêt collectif de la communauté ou de l'administration.
 
-+ Nous exigeons que tout les utilisateurs se respectent et modèrent leur propos.
++ Nous exigeons que tout les utilisateurs se respectent et modèrent leur propos. Les propos racistes ou les insultes ne sont pas tolérables.
 
 + Ce réseau existe pour la communauté, nous ne tolérerons pas les utilisateurs fantômes (qui ne participent pas à la communauté).
 
@@ -18,8 +18,20 @@ purement professionelle.
 
 + Les projets présents sont scolaires ou personnels. En conséquence, nous ne permettrons pas l'utilisation du réseau pour des fins lucratives.
 
++ Les images à caractères pornographiques ou pédophiles, seront immédiatement sanctionnées.
+
++ Veuillez faire attention à ce qu'il n'y ait pas de doublons que ça soit dans les postes, ou les projets. 
+
 #### Communication dans la communauté : 
 > Nous préciserons les plateformes qui peuvent être utilisées et dans quel cadre la communication doit avoir lieu.
+
++ discord
+
++ Gitter
+
++ Github
+
++ Teamspeak
 
 #### Protection de la propriété intellectuelle :
 > Nous rappellerons le devoir de réserve auxquels sont soumis les utilisateurs, en ce qui concerne les informations, projets, réunions, et autres activités
@@ -29,13 +41,12 @@ internes à la vie de la communauté.
 
 + Les informations sur le profil utilisateur sont personnelles, vous êtes donc dans l'interdiction d'usurper l'identité d'un autre utilisateur.
 
-
-#### Condition d'accès au réseau social : 
-> Nous évoquerons certaines restrictions et limites pratiques.
-
 #### Sanctions:
-> Nous indiquerons les sanctions si la charte est enfreinte. 
+> Nous indiquerons les sanctions si les conditions générales d'utilisation sont enfreintes. 
 
++ Pour des infractions dites mineures nous appliquerons un renvoi au bout de 3 avertissements.
+
++ Pour des infractions aggravées, nous appliquerons le renvoi immédiat.
 
 _**Pour toutes informations supplémentaires, nous vous prions de nous joindre à ces liens ci dessous:**_
 

@@ -14,18 +14,20 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 + Les utilisateurs sont libres de discuter avec qui que ce soit, cependant nous apprécierons de ne pas mettre en avant votre vie privée et de garder votre présence sur le serveur à titre
 purement professionelle.
 
++ Les images à caractères pornographiques ou pédophiles, seront immédiatement sanctionnées
+
 + Nous précisons que la publicité à titre personnelle ne sera pas acceptée.
 
 + Les projets présents sont scolaires ou personnels. En conséquence, nous ne permettrons pas l'utilisation du réseau pour des fins lucratives.
 
-+ Les images à caractères pornographiques ou pédophiles, seront immédiatement sanctionnées.
++ Les projets sortant du cadre de l'informatique sont prohibés.
 
 + Veuillez faire attention à ce qu'il n'y ait pas de doublons que ça soit dans les postes, ou les projets. 
 
 #### Communication dans la communauté : 
 > Nous préciserons les plateformes qui peuvent être utilisées et dans quel cadre la communication doit avoir lieu.
 
-+ discord
++ Discord
 
 + Gitter
 

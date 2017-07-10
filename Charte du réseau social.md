@@ -14,7 +14,7 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 + Les utilisateurs sont libres de discuter avec qui que ce soit, cependant nous apprécierons de ne pas mettre en avant votre vie privée et de garder votre présence sur le serveur à titre
 purement professionelle.
 
-+ Les images à caractères pédopornographique, seront immédiatement sanctionnées.
++ Les images à caractères pédopornographique seront immédiatement sanctionnées.
 
 + Nous précisons que la publicité à titre personnelle ne sera pas acceptée.
 

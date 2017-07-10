@@ -1,7 +1,7 @@
 Les conditions générales d'utilisation du réseau social
 =======================================================
 
-Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisateurs de bien vouloir respecter la charte.
+_**Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisateurs de bien vouloir respecter la charte.**_
 
 #### Règlement intérieur du réseau social : 
 > Cette partie aura pour objectif de sensibiliser les utilisateurs aux exigences de sécurité, d'appeler leur attention sur certains comportements qui peuvent porter 
@@ -14,7 +14,7 @@ atteinte à l'intérêt collectif de la communauté ou de l'administration.
 + Les utilisateurs sont libres de discuter avec qui que ce soit, cependant nous apprécierons de ne pas mettre en avant votre vie privée et de garder votre présence sur le serveur à titre
 purement professionelle.
 
-+ Les images à caractères pédopornographique seront immédiatement sanctionnées.
++ Les images à caractères pédopornographiques seront immédiatement sanctionnées.
 
 + Nous précisons que la publicité à titre personnelle ne sera pas acceptée.
 
@@ -36,10 +36,9 @@ purement professionelle.
 + Teamspeak
 
 #### Protection de la propriété intellectuelle :
-> Nous rappellerons le devoir de réserve auxquels sont soumis les utilisateurs, en ce qui concerne les informations, projets, réunions, et autres activités
-internes à la vie de la communauté.
+> Nous rappellerons le devoir de réserve auxquels sont soumis les utilisateurs, en ce qui concerne les informations, projets, réunions, et autres activités internes à la vie de la communauté.
 
-+ Il est important de respecter le travail de chacun, de ce faite, nous vous demandons de ne pas vous approprier le travail d'un autre utilisateur.
++ Il est important de respecter le travail de chacun, de ce fait, nous vous demandons de ne pas vous approprier le travail d'autrui.
 
 + Les informations sur le profil utilisateur sont personnelles, vous êtes donc dans l'interdiction d'usurper l'identité d'un autre utilisateur.
 

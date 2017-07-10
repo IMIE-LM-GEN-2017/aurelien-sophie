@@ -1,4 +1,4 @@
-les conditions générales d'utilisation du réseau social
+Les conditions générales d'utilisation du réseau social
 =======================================================
 
 Pour le bon fonctionnement du réseau, nous allons demander à tous les utilisateurs de bien vouloir respecter la charte.
